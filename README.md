@@ -1,3 +1,3 @@
 # Crime-management-system
-Database project
-My name is Rabia Nazir.
+This is Database project.
+Author - Rabia Nazir.
